@@ -1,1 +1,9 @@
-
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "TTT", " S ", " S " ],
+  "key": {
+    "T": { "item": "semp:tungsten_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "semp:tungsten_pickaxe" }
+}
